@@ -1,3 +1,4 @@
-body {
-background-image: url(/organized_desk.jpg) 100%;
+html {
+background-image: url(/organized_desk.jpg);
+background-repeat: no-repeat;
 }
