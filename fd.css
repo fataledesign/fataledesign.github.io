@@ -17,12 +17,7 @@ font-family:'Tangerine', cursive;
 font-size: 42px;
 }
 nav {
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f0b7a1+0,752201+19,8c3310+53,752201+79,bf6e4e+100 */
-background: rgb(240,183,161); /* Old browsers */
-background: -moz-linear-gradient(left,  rgba(240,183,161,1) 0%, rgba(117,34,1,1) 19%, rgba(140,51,16,1) 53%, rgba(117,34,1,1) 79%, rgba(191,110,78,1) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(left,  rgba(240,183,161,1) 0%,rgba(117,34,1,1) 19%,rgba(140,51,16,1) 53%,rgba(117,34,1,1) 79%,rgba(191,110,78,1) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right,  rgba(240,183,161,1) 0%,rgba(117,34,1,1) 19%,rgba(140,51,16,1) 53%,rgba(117,34,1,1) 79%,rgba(191,110,78,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', endColorstr='#bf6e4e',GradientType=1 ); /* IE6-9 */
+
 
 margin: 0 0 0 1000px;
 padding: 10px 5px 10px 5px;
