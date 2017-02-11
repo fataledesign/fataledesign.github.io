@@ -12,8 +12,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d0d0d', end
 }
 
 h1 {
+	color:  #4d1919;
 	font-family: 'Righteous', cursive;
 	font-size: 70px;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+	text-align: center;
+	text-shadow: 3px 0 0 #f2d9d9;
 }
 h2 {
 	color: white;
