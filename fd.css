@@ -6,3 +6,12 @@ background: -webkit-linear-gradient(-45deg,  rgba(13,13,13,1) 0%,rgba(149,149,14
 background: linear-gradient(135deg,  rgba(13,13,13,1) 0%,rgba(149,149,149,1) 14%,rgba(149,149,149,1) 29%,rgba(78,78,78,1) 35%,rgba(78,78,78,1) 35%,rgba(1,1,1,1) 49%,rgba(149,149,149,1) 66%,rgba(149,149,149,1) 74%,rgba(149,149,149,1) 82%,rgba(1,1,1,1) 97%,rgba(10,10,10,1) 97%,rgba(10,10,10,1) 97%,rgba(1,1,1,1) 97%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d0d0d', endColorstr='#010101',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
+
+body {
+ /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0d0d0d+0,959595+14,959595+29,4e4e4e+35,4e4e4e+35,010101+49,959595+66,959595+74,959595+82,010101+97,0a0a0a+97,0a0a0a+97,010101+97 */
+background: rgb(13,13,13); /* Old browsers */
+background: -moz-linear-gradient(45deg,  rgba(13,13,13,1) 0%, rgba(149,149,149,1) 14%, rgba(149,149,149,1) 29%, rgba(78,78,78,1) 35%, rgba(78,78,78,1) 35%, rgba(1,1,1,1) 49%, rgba(149,149,149,1) 66%, rgba(149,149,149,1) 74%, rgba(149,149,149,1) 82%, rgba(1,1,1,1) 97%, rgba(10,10,10,1) 97%, rgba(10,10,10,1) 97%, rgba(1,1,1,1) 97%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  rgba(13,13,13,1) 0%,rgba(149,149,149,1) 14%,rgba(149,149,149,1) 29%,rgba(78,78,78,1) 35%,rgba(78,78,78,1) 35%,rgba(1,1,1,1) 49%,rgba(149,149,149,1) 66%,rgba(149,149,149,1) 74%,rgba(149,149,149,1) 82%,rgba(1,1,1,1) 97%,rgba(10,10,10,1) 97%,rgba(10,10,10,1) 97%,rgba(1,1,1,1) 97%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  rgba(13,13,13,1) 0%,rgba(149,149,149,1) 14%,rgba(149,149,149,1) 29%,rgba(78,78,78,1) 35%,rgba(78,78,78,1) 35%,rgba(1,1,1,1) 49%,rgba(149,149,149,1) 66%,rgba(149,149,149,1) 74%,rgba(149,149,149,1) 82%,rgba(1,1,1,1) 97%,rgba(10,10,10,1) 97%,rgba(10,10,10,1) 97%,rgba(1,1,1,1) 97%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d0d0d', endColorstr='#010101',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
