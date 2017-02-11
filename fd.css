@@ -13,12 +13,12 @@ border: solid 5px black;
 
 h1 {
 font-family: 'Orbitron', sans-serif;
-font-size: 75px;
+font-size: 50px;
 }
 h2 {
 color: white;
 font-family: 'Orbitron', sans-serif;
-font-size: 42px;
+font-size: 20px;
 }
 nav {
 background-image: url("nav_background.jpg");
