@@ -9,6 +9,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d0d0d', end
 
 .logo {
 	border: solid 5px black;
+	margin-left: 620px;
 }
 
 h1 {
