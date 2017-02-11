@@ -22,14 +22,14 @@ font-size: 42px;
 }
 nav {
 background-image: url("nav_background.jpg");
+width: 350px;
+height: 350px;
 margin: 0 0 0 1000px;
 padding: 10px 5px 10px 5px;
 text-align: center;
 }
 nav a {
 display: inline-block;
-width: 350px;
-height: 350px;
 }
 
 
