@@ -7,7 +7,7 @@ background: linear-gradient(135deg,  rgba(13,13,13,1) 0%,rgba(149,149,149,1) 14%
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d0d0d', endColorstr='#010101',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
-	.logo {
+.logo {
 border: solid 5px black;
 }
 
@@ -21,11 +21,10 @@ font-family: 'Lato', sans-serif;
 font-size: 20px;
 }
 nav {
-background-image: url("nav_background.jpg");
-background-size: 375px 375px;
-background-repeat: no-repeat;
-width: 350px;
-height: 350px;
+background-color: #D8BFD8;
+
+width: 250px;
+height: 150px;
 margin: 0 0 0 1000px;
 padding: 10px 5px 10px 5px;
 text-align: center;
