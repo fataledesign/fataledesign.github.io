@@ -1,8 +1,9 @@
 html {
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0d0d0d+0,959595+14,1b1b1b+31,959595+52,1b1b1b+71,1b1b1b+71,1b1b1b+71,959595+85,1b1b1b+99 */
-background: #0d0d0d; /* Old browsers */
-background: -moz-linear-gradient(-45deg,  #0d0d0d 0%, #959595 14%, #1b1b1b 31%, #959595 52%, #1b1b1b 71%, #1b1b1b 71%, #1b1b1b 71%, #959595 85%, #1b1b1b 99%); /* FF3.6-15 */
-background: -webkit-linear-gradient(-45deg,  #0d0d0d 0%,#959595 14%,#1b1b1b 31%,#959595 52%,#1b1b1b 71%,#1b1b1b 71%,#1b1b1b 71%,#959595 85%,#1b1b1b 99%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(135deg,  #0d0d0d 0%,#959595 14%,#1b1b1b 31%,#959595 52%,#1b1b1b 71%,#1b1b1b 71%,#1b1b1b 71%,#959595 85%,#1b1b1b 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d0d0d', endColorstr='#1b1b1b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0d0d0d+0,4e4e4e+20,010101+37,959595+60,959595+60,0a0a0a+71,0a0a0a+83,383838+97 */
+background: rgb(13,13,13); /* Old browsers */
+background: -moz-linear-gradient(-45deg,  rgba(13,13,13,1) 0%, rgba(78,78,78,1) 20%, rgba(1,1,1,1) 37%, rgba(149,149,149,1) 60%, rgba(149,149,149,1) 60%, rgba(10,10,10,1) 71%, rgba(10,10,10,1) 83%, rgba(56,56,56,1) 97%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  rgba(13,13,13,1) 0%,rgba(78,78,78,1) 20%,rgba(1,1,1,1) 37%,rgba(149,149,149,1) 60%,rgba(149,149,149,1) 60%,rgba(10,10,10,1) 71%,rgba(10,10,10,1) 83%,rgba(56,56,56,1) 97%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  rgba(13,13,13,1) 0%,rgba(78,78,78,1) 20%,rgba(1,1,1,1) 37%,rgba(149,149,149,1) 60%,rgba(149,149,149,1) 60%,rgba(10,10,10,1) 71%,rgba(10,10,10,1) 83%,rgba(56,56,56,1) 97%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d0d0d', endColorstr='#383838',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
 }
