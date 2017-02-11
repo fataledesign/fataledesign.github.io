@@ -7,4 +7,24 @@ background: linear-gradient(135deg,  rgba(13,13,13,1) 0%,rgba(149,149,149,1) 14%
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d0d0d', endColorstr='#010101',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
+h1 {
+font-family:'Tangerine', cursive;
+font-size: 75px;
+}
+h2 {
+color: white;
+font-family:'Tangerine', cursive;
+font-size: 42px;
+}
+nav {
+background-color: white;
+margin: 0 0 0 1000px;
+padding: 10px 5px 10px 5px;
+text-align: center;
+}
+nav a {
+display: inline-block;
+width: 150px;
+}
+
 
