@@ -12,6 +12,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0e0e0e', end
 	margin-left: 670px;
 }
 
+#banners&poster {
+         margin-left: 870px;
+}
+
 h1 {
 	color:  #4d1919;
 	font-family: 'Righteous', cursive;
