@@ -78,3 +78,11 @@ nav a:hover {
     color: #330000;
     font-family: 'Righteous', cursive;
 }
+
+footer {
+        color: #996666;
+	font-family: 'Electrolize', sans-serif;
+	text-align: right;
+	letter-spacing: 5px;
+	text-shadow: 1px 0 0 #f2d9d9;
+}
