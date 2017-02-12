@@ -12,8 +12,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0e0e0e', end
 	margin-left: 670px;
 }
 
-#banners_poster3 {
-         margin-left: 870px;
+.top {
+   padding:1px;
+   border:1px solid #021a40;
 }
 
 h1 {
