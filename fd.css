@@ -14,7 +14,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0e0e0e', end
 
 .top {
    padding: 1px;
-   border: 4px solid #021a40;
+   border: 4px solid black;
 }
 
 h1 {
