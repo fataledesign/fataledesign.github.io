@@ -28,9 +28,12 @@ div.desc {
     text-align: center;
 }
 
+.quote {
+   text-align: center;
+}
+
 .logo {
-	
-	margin-left: 670px;
+   margin-left: 670px;
 }
 
 .top {
