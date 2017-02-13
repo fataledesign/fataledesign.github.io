@@ -7,6 +7,12 @@ background: linear-gradient(to right,  rgba(14,14,14,1) 1%,rgba(125,126,125,1) 3
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0e0e0e', endColorstr='#0e0e0e',GradientType=1 ); /* IE6-9 */
 }
 
+body {
+    background-image: url("netting.jpg");
+    opacity: 0.5;
+    width: 100%;
+}
+
 div.img {
     margin: 10px;
     border: 6px solid #000000;
