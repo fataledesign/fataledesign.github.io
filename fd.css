@@ -9,7 +9,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0e0e0e', end
 
 body {
     background-image: url("netting.jpg");
-    opacity: 0.5;
+    background-repeat: no-repeat;
     width: 100%;
 }
 
