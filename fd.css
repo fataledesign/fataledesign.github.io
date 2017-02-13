@@ -94,6 +94,7 @@ h2 {
 	color: #660000;
 	font-family: 'Electrolize', sans-serif;
 	font-size: 20px;
+	text-shadow: 4px 0 0 black;
 }
 nav {
 	background-color: #867979;
