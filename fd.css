@@ -68,7 +68,8 @@ div.desc {
         width: 49.99999%;
         margin: 6px 0;
     }
-}
+
+
 
 @media only screen and (max-width: 500px){
     .responsive {
@@ -126,5 +127,6 @@ footer {
 	margin-left: 1410px;
 	text-align: center;
 	letter-spacing: 4px;
+	width: 15%;
 	text-shadow: 1px 0 0 #f2d9d9;
 }
