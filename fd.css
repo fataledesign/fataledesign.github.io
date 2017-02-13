@@ -45,7 +45,6 @@ div.desc {
 
 .logo {
    margin-left: 670px;
-	position: relative;
 }
 
 .top {
@@ -62,6 +61,7 @@ div.desc {
     float: left;
     width: 24.99999%;
 }
+
 
 @media only screen and (max-width: 700px){
     .responsive {
