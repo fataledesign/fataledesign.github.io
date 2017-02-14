@@ -28,13 +28,14 @@ div.desc {
 }
 
 .about_me {
-        color:#00134d;
+        color:#d98c8c;
 	font-family: 'Electrolize', sans-serif;
 	font-size: 20px;
-	text-shadow: 1px 1px 0 #809fff;
+	text-shadow: 1px 1px 0 #4d1919;
 }
 
 .disclaimer {
+	color: #d98c8c;
     text-align: center;
 }
 
@@ -92,10 +93,10 @@ h1 {
 	text-shadow: 5px 0 0 #4d1919;
 }
 h2 {
-	color:#00134d;
+	color:#d98c8c;
 	font-family: 'Electrolize', sans-serif;
 	font-size: 20px;
-	text-shadow: 1px 1px 0 #809fff;
+	text-shadow: 1px 1px 0 #4d1919;
 }
 nav {
 	background-color: #867979;
