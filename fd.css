@@ -96,30 +96,7 @@ h2 {
 	font-family: 'Electrolize', sans-serif;
 	font-size: 20px;
 	text-shadow: 1px 1px 0 #4d1919;
-}
-nav {
-	background-color: #867979;
-	font-family: 'Righteous', cursive;
-	display: inline-block;
-	margin: 0 0 0 1000px;
-	padding: 10px 5px 10px 5px;
-	text-align: center;
-}
-nav a {
-	background-color: #936c6c;
-	color: white;
-        font-family: 'Righteous', cursive;
-	padding: 6px 6px;
-        text-decoration: none;
-	font-size: 25px;
-	width: 360px;
-}
 
-nav a:hover {
-    background-color: #ac5353;
-    color: #330000;
-    font-family: 'Righteous', cursive;
-}
 
 footer {
         color:  #4d1919;
