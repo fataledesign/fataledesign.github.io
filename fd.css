@@ -1,6 +1,6 @@
 html {
 	background-image: url("htmlBG.jpg");
-	height: 100%;
+	background-size: 100%;
 	position: relative
 }
 
@@ -48,7 +48,7 @@ div.desc {
 }
 
 .logo {
-   margin-left: 670px;
+	text-align: center;
 }
 
 .top {
