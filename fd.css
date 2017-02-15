@@ -4,6 +4,9 @@ html {
 	position: relative
 }
 
+body {
+    overflow: scroll;
+}
 
 
 div.img {
