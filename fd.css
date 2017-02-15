@@ -92,10 +92,10 @@ h1 {
 	text-shadow: 5px 0 0 #4d1919;
 }
 h2 {
-	color:#d98c8c;
+	color: #d98c8c;
 	font-family: 'Electrolize', sans-serif;
 	font-size: 20px;
-	text-shadow: 1px 1px 0 #4d1919;
+	text-shadow: 1px 1px 0 #f2d9d9;
 }
 nav {
 	background-color: #867979;
@@ -123,7 +123,7 @@ nav a:hover {
 
 
 footer {
-        color:  #4d1919;
+        color:  #d98c8c;
 	font-family: 'Electrolize', sans-serif;
 	margin-left: 1410px;
 	text-align: center;
