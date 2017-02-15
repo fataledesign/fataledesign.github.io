@@ -1,13 +1,7 @@
 html {
 	background-image: url("htmlBG.jpg");
 	background-size: 100%;
-	position: relative
 }
-
-body {
-    overflow: scroll;
-}
-
 
 div.img {
     margin: 10px;
