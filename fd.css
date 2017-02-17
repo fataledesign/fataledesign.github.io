@@ -25,6 +25,10 @@ div.desc {
     text-align: center;
 }
 
+.B&W {
+    width: 100%;
+}
+
 .about_me {
         color:#d98c8c;
 	font-family: 'Electrolize', sans-serif;
