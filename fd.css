@@ -51,7 +51,7 @@ div.desc {
 
 .logo {
 	text-align: center;
-	margin-left: 670px;
+	text-align: -webkit-center;
 	}
 
 .top {
