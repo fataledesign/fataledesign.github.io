@@ -2,6 +2,7 @@ html {
 	background-image: url("htmlBG.jpg");
 	background-size: 100%;
 	background-color: black;
+	background-repeat: no-repeat;
 }
 
 div.img {
