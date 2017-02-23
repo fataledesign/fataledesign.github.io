@@ -122,11 +122,12 @@ nav {
 	background-color: #867979;
 	font-family: 'Righteous', cursive;
 	display: inline-block;
-	margin: 0 0 0 1000px;
 	padding: 10px 5px 10px 5px;
 	text-align: center;
 	width: 600px;
+	margin-bottom: 10px;
 }
+
 nav a {
 	background-color: #936c6c;
 	color: white;
