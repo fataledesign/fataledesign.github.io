@@ -50,8 +50,9 @@ div.desc {
 #quote {
 	float: left;
 	border: solid 3px #800000;
-	margin-left: 70px;
-	margin-top: 15px
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
 }
 
 .quote {
