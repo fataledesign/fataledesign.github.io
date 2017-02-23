@@ -132,11 +132,15 @@ nav a:hover {
 }
 
 
+.copyright {
+	float: right;
+	width: 325px;
+	}
+
 footer {
-        color:  #d98c8c;
+    color:  #800000;
 	font-family: 'Electrolize', sans-serif;
-	margin-left: 1410px;
 	text-align: center;
-	letter-spacing: 4px;
-	text-shadow: 1px 0 0 #f2d9d9;
-}
+	letter-spacing: 1px;
+	text-shadow: 1px 0 0;
+	}
