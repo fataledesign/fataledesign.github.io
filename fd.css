@@ -41,16 +41,21 @@ div.desc {
 }
 
 .bnw {
+	border: solid 3px #800000;
 	float: right;
 	width: 100%;
 }
 
+
 #quote {
+	float: left;
 	border: solid 3px #800000;
+	margin-left: 70px;
+	margin-top: 15px
 }
 
 .quote {
-   text-align: center;
+	text-align: center;
 }
 
 
