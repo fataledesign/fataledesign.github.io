@@ -1,9 +1,6 @@
 html {
-	background-image: url("htmlBG.jpg");
-	background-size: 100%;
-	background-color: #262626;
-	background-repeat: no-repeat;
-}
+	background-color: black;
+	}
 
 div.img {
     margin: 10px;
