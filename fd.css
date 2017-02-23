@@ -27,10 +27,6 @@ div.desc {
     text-align: center;
 }
 
-.bnw {
-    width: 100%;
-}
-
 .contact {
     color:  #d98c8c;
 }
@@ -45,6 +41,19 @@ div.desc {
 .disclaimer {
 	color: #d98c8c;
     text-align: center;
+}
+
+.bnw {
+	float: right;
+	width: 100%;
+}
+
+#quote {
+	border: solid 3px #800000;
+}
+
+.quote {
+   text-align: center;
 }
 
 .quote {
