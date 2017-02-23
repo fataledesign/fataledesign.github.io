@@ -116,12 +116,15 @@ h2 {
 	text-shadow: 1px 1px 0 #f2d9d9;
 }
 nav {
+	float: right;
+	border: solid 3px #800000;
 	background-color: #867979;
 	font-family: 'Righteous', cursive;
 	display: inline-block;
 	margin: 0 0 0 1000px;
 	padding: 10px 5px 10px 5px;
 	text-align: center;
+	width: 600px;
 }
 nav a {
 	background-color: #936c6c;
