@@ -144,9 +144,9 @@ nav a:hover {
 
 
 .copyright {
-	float: left;
+	float: right;
 	width: 300px;
-	margin-left: 1000px;
+	margin-right: 100px;
 	}
 
 footer {
