@@ -112,7 +112,7 @@ h1 {
 h2 {
 	color: #d98c8c;
 	font-family: 'Electrolize', sans-serif;
-	font-size: 20px;
+	font-size: 16px;
 	text-shadow: 1px 1px 0 #f2d9d9;
 }
 nav {
@@ -133,7 +133,7 @@ nav a {
         font-family: 'Righteous', cursive;
 	padding: 2px 2px;
         text-decoration: none;
-	font-size: 12px;
+	font-size: 14px;
 }
 
 nav a:hover {
