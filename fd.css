@@ -101,13 +101,13 @@ margin-right: auto;
 }
 
 h1 {
-	color:  #d98c8c;
+	color:  #800000;
 	font-family: 'Righteous', cursive;
-	font-size: 70px;
-	letter-spacing: 20px;
+	font-size: 60px;
+	letter-spacing: 15px;
 	text-transform: uppercase;
 	text-align: center;
-	text-shadow: 5px 0 0 #4d1919;
+	text-shadow: 3px -1px 1px #d98c8c;
 }
 h2 {
 	color: #d98c8c;
