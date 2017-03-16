@@ -4,6 +4,7 @@ html {
 
 header {
 	display: inline-block;
+	width: 100%;
 }
 
 div.img {
