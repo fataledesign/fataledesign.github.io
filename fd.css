@@ -5,7 +5,6 @@ html {
 header {
 	display: inline-block;
 	width: 100%;
-	text-align: center;
 }
 
 div.img {
@@ -126,21 +125,21 @@ h2 {
 	display: inline-block;
 	width: 300px;
 	margin-top: 110px;
-	margin-left: 10px auto;
-	margin-right: 0 auto;
+	margin-left: 25%;
+	margin-right: 75%;
 	}
 
 #two {
-	margin-left: 0 auto;
-	margin-right: 0 auto;
+	margin-left: 45%;
+	margin-right: 45%;
 }
 
 #three {
 	display: inline-block;
 	width: 350px;
 	margin-top: 110px;
-	margin-left: 0 auto;
-	margin-right: 0 auto;
+	margin-left: 75%;
+	margin-right: 25%;
 }
 
 nav {
