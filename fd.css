@@ -119,26 +119,26 @@ h2 {
 	text-shadow: 1px 1px 0 #f2d9d9;
 }
 
-.one {
-	border: solid 2px red;
-	margin-top: 30px;
-	margin-bottom: 30px;
-	position: absolute;
-	top: 95px;
-	margin-left: 65%;
+
+#one {
+	display: inline-block;
+	width: 300px;
+	margin-top: 110px;
+	margin-left: 50px;
+	margin-right: 0 auto;
+	}
+
+#two {
+	margin-left: 50px;
+	margin-right: 0 auto;
 }
 
-.two {
-	border: solid 2px red;
-	margin-top: 30px;
-	margin-bottom: 30px;
-	position: absolute;
-	top: 95px;
-	margin-left: 5%;
-}
-
-.three {
-padding-left: 375px;
+#three {
+	display: inline-block;
+	width: 300px;
+	margin-top: 110px;
+	margin-left: 50px;
+	margin-right: 0 auto;
 }
 
 nav {
