@@ -2,6 +2,10 @@ html {
 	background-color: black;
 	}
 
+header {
+	display: inline-block;
+}
+
 div.img {
     margin: 10px;
     border: 6px solid #000000;
@@ -59,9 +63,6 @@ div.desc {
 
 
 .logo {
-display: block;
-margin-left: auto;
-margin-right: auto;
 width: 300px;
 height: 300px;
 	}
@@ -117,30 +118,49 @@ h2 {
 	font-size: 16px;
 	text-shadow: 1px 1px 0 #f2d9d9;
 }
+
+.one {
+	border: solid 2px red;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	position: absolute;
+	top: 95px;
+	margin-left: 65%;
+}
+
+.two {
+	border: solid 2px red;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	position: absolute;
+	top: 95px;
+	margin-left: 5%;
+}
+
+.three {
+padding-left: 375px;
+}
+
 nav {
-	float: right;
-	border: solid 3px #800000;
-	background-color: #867979;
+	
 	font-family: 'Righteous', cursive;
-	display: inline-block;
-	padding: 4px 0px 4px 0px;
 	text-align: center;
-	width: 360px;
-	margin-bottom: 10px;
+	display: inline-block;
+	position: relative;
 }
 
 nav a {
-	background-color: #936c6c;
 	color: white;
-        font-family: 'Righteous', cursive;
-	padding: 2px 2px;
-        text-decoration: none;
-	font-size: 12px;
+    font-family: 'Righteous', cursive;
+	text-decoration: none;
+	font-size: 20px;
+	letter-spacing: 3px;
+	display: inline-block;
+	text-align: center;
 }
 
 nav a:hover {
-    background-color: #ac5353;
-    color: #330000;
+  color: #d98c8c;
     font-family: 'Righteous', cursive;
 }
 
