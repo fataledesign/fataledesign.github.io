@@ -60,8 +60,8 @@ div.desc {
 .logo {
 height: 100%;
 position: absolute;
-left: 46%;
-right: 46%;
+left: 45%;
+right: 45%;
 z-index: 0;
 	}
 
@@ -141,7 +141,7 @@ nav a {
 	float: left;
 	position: relative;
 	bottom: 50px;
-	margin-left: 15.5%;
+	margin-left: 15.4%;
 	z-index: 1;
 }
 
