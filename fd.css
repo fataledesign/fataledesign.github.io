@@ -50,6 +50,7 @@ div.desc {
 	margin-top: 15px;
 	position: absolute;
 	bottom: 70px;
+	height: 30%;
 }
 
 .quote {
@@ -57,7 +58,6 @@ div.desc {
 	color:  #800000;
 	font-size: 28px;
 	text-shadow: -3px 1px 0 black;
-	bottom: 70px;
 }
 
 .eyes{
