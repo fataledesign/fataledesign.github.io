@@ -46,15 +46,23 @@ div.desc {
 }
 
 #quote {
-	float: left;
-	border: solid 3px #800000;
 	margin-left: 70px;
-	margin-top: 15px
+	margin-top: 15px;
+	position: absolute;
+	bottom: 15px
 }
 
 .quote {
 	text-align: center;
+	color:  #800000;
+	font-size: 28px;
+	text-shadow: 1px 1px 0 black;
 }
+
+.eyes{
+	position: relative;
+}
+
 
 
 .logo {
