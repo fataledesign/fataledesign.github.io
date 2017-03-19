@@ -158,11 +158,12 @@ nav a:hover {
     font-family: 'Righteous', cursive;
 }
 
-
 .copyright {
-	float: right;
 	width: 300px;
 	margin-right: 100px;
+	position: absolute;
+	right: 0;
+	top: 900px
 	}
 
 footer {
