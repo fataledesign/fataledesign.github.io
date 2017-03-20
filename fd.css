@@ -43,14 +43,16 @@ div.desc {
 .bnw {
 	
 	width: 100%;
+	height: 100%;
 }
 
 #quote {
 	margin-left: 70px;
 	margin-top: 15px;
 	position: absolute;
-	bottom: 70px;
-	height: 30%;
+	bottom: 130px;
+	height: 35%;
+	width: 100%;
 }
 
 .quote {
@@ -58,23 +60,26 @@ div.desc {
 	color:  #800000;
 	font-size: 28px;
 	text-shadow: -3px 1px 0 black;
+	margin-right: 15%;
+	margin-left: 15%;
 }
 
 .eyes{
 	position: absolute;
 	width: 100%;
-	height: 65%
 }
 
 
 
 .logo {
-height: 100%;
+width: 250px;
+	height: 250px;
 position: absolute;
 left: 45%;
 right: 45%;
 z-index: 0;
-	}
+	float: right;
+}
 
 .top {
    padding: 1px;
@@ -115,7 +120,6 @@ z-index: 0;
 header {
 	position: relative;
 	overflow: hide;
-	height: 250px;
 }
 
 h1 {
@@ -168,7 +172,8 @@ nav a:hover {
 	margin-right: 100px;
 	position: absolute;
 	right: 0;
-	top: 900px
+	bottom: -0;
+	float: right;
 	}
 
 footer {
