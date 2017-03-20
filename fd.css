@@ -137,8 +137,11 @@ h2 {
 nav {
 	display: inline-block;
 	width: 100%;
-	padding-top: 160px;
+	padding-top: 75px;
 	position: relative;
+	height: 1px;
+	margin-top: 60px;
+	margin-right: 40%;
 }
 
 nav a {
@@ -148,7 +151,7 @@ nav a {
 	font-size: 20px;
 	letter-spacing: 3px;
 	display: inline-block;
-	float: left;
+	float: none;
 	position: relative;
 	bottom: 50px;
 	margin-left: 15.4%;
