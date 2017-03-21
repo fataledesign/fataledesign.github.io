@@ -124,19 +124,32 @@ header {
 
 h1 {
 	color:  #800000;
-	font-family: 'Righteous', cursive;
-	font-size: 60px;
-	letter-spacing: 15px;
+	font-family: 'Megrim', cursive;
+	font-size: 80px;
+	letter-spacing: -1px;
 	text-transform: uppercase;
 	text-align: center;
-	text-shadow: 3px -1px 1px #d98c8c;
+	margin-top: 70px;
+	margin-bottom: -75px;
 }
+
 h2 {
 	color: #d98c8c;
 	font-family: 'Electrolize', sans-serif;
 	font-size: 16px;
 	text-shadow: 1px 1px 0 #f2d9d9;
 }
+
+h3 {
+	
+	color:  #800000;
+	text-align: center;
+	font-size: 45px;
+	font-family: 'Syncopate', sans-serif;
+	text-transform: uppercase;
+	margin-bottom: 40px;
+	
+	}
 
 nav {
 	display: inline-block;
