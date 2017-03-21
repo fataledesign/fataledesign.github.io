@@ -203,14 +203,6 @@ nav a:hover {
     font-family: 'Righteous', cursive;
 }
 
-.copyright {
-	width: 300px;
-	margin-right: 100px;
-	position: absolute;
-	right: 0;
-	bottom: -0;
-	float: right;
-	}
 
 footer {
     color:  #800000;
@@ -218,4 +210,8 @@ footer {
 	text-align: center;
 	letter-spacing: 1px;
 	text-shadow: 1px 0 0;
+	width: 300px;
+	position: absolute;
+	bottom: -550px;
+	right: 0;
 	}
