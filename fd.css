@@ -78,7 +78,7 @@ position: absolute;
 left: 45%;
 right: 45%;
 z-index: 0;
-	float: right;
+top: -60px;
 }
 
 .top {
@@ -129,9 +129,11 @@ h1 {
 	letter-spacing: -1px;
 	text-transform: uppercase;
 	text-align: center;
-	margin-top: 70px;
-	margin-bottom: -75px;
+	margin-top: 80px;
+	padding-top: 200px;
 	width: 100%;
+		position: relative;
+	z-index: +1;
 }
 
 h2 {
@@ -142,23 +144,44 @@ h2 {
 }
 
 h3 {
+	
 	color:  #800000;
 	text-align: center;
 	font-size: 45px;
 	font-family: 'Syncopate', sans-serif;
 	text-transform: uppercase;
-	margin-bottom: 40px;
+	margin-bottom: -40px;
+	margin-top: -75px;
 	width: 100%;
+		position: relative;
+	z-index: +1;
 	}
 
-nav {
+
+.one {
 	display: inline-block;
-	width: 100%;
-	padding-top: 75px;
+	padding-bottom: 60px;
+	height: 50px;
+	width: 380px;
+	float: right;
+	text-align: center;
+	margin-right: 0 auto;
 	position: relative;
-	height: 1px;
-	margin-top: 60px;
-	margin-right: 40%;
+	z-index: +1;
+	margin-top: 50px;
+}
+
+.two {
+	display: inline-block;
+	height: 0px;
+	width: 380px;
+	padding-bottom: 60px;
+	float: left;
+	text-align: center;
+	margin-left: 0 auto;
+	position: relative;
+	z-index: +1;
+	margin-top: 50px;
 }
 
 nav a {
@@ -166,13 +189,12 @@ nav a {
     font-family: 'Righteous', cursive;
 	text-decoration: none;
 	font-size: 20px;
-	letter-spacing: 3px;
+	letter-spacing: 1px;
 	display: inline-block;
 	float: none;
-	position: relative;
-	bottom: 50px;
-	margin-left: 15.4%;
-	z-index: 1;
+	text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 nav a:hover {
