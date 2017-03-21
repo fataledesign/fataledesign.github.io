@@ -131,6 +131,7 @@ h1 {
 	text-align: center;
 	margin-top: 70px;
 	margin-bottom: -75px;
+	width: 100%;
 }
 
 h2 {
@@ -141,14 +142,13 @@ h2 {
 }
 
 h3 {
-	
 	color:  #800000;
 	text-align: center;
 	font-size: 45px;
 	font-family: 'Syncopate', sans-serif;
 	text-transform: uppercase;
 	margin-bottom: 40px;
-	
+	width: 100%;
 	}
 
 nav {
