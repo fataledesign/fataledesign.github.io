@@ -2,6 +2,10 @@ html {
 	background-color: black;
 	}
 
+body {
+	min-height: 900px;
+}
+
 div.img {
     margin: 10px;
     border: 6px solid #000000;
@@ -134,7 +138,7 @@ h1 {
 	padding-top: 200px;
 	width: 100%;
 		position: relative;
-	z-index: +1;
+	z-index: 1;
 }
 
 h2 {
@@ -155,12 +159,12 @@ h3 {
 	margin-top: -75px;
 	width: 100%;
 		position: relative;
-	z-index: +1;
+	z-index: 1;
 	}
 
 
 .one {
-	display: inline-block;
+	display: inline;
 	padding-bottom: 60px;
 	height: 50px;
 	width: 380px;
@@ -170,16 +174,17 @@ h3 {
 	position: relative;
 	z-index: 1;
 	margin-top: 50px;
+	margin-right: 10%;
 }
 
 .two {
-	display: inline-block;
+	display: inline;
 	height: 0px;
 	width: 380px;
 	padding-bottom: 60px;
 	float: left;
 	text-align: center;
-	margin-left: 0 auto;
+	margin-left: 10%;
 	position: relative;
 	z-index: 1;
 	margin-top: 50px;
@@ -187,11 +192,11 @@ h3 {
 
 nav a {
 	color: white;
-    font-family: 'Righteous', cursive;
+    font-family: 'Megrim', cursive;
 	text-decoration: none;
-	font-size: 20px;
+	font-size: 30px;
 	letter-spacing: 1px;
-	display: inline-block;
+	display: inline;
 	float: none;
 	text-align: center;
 	padding-left: 10px;
@@ -200,18 +205,21 @@ nav a {
 
 nav a:hover {
   color: #d98c8c;
-    font-family: 'Righteous', cursive;
+    font-family: 'Megrim', cursive;
 }
 
 
 footer {
     color:  #800000;
 	font-family: 'Electrolize', sans-serif;
+	display: inline;
 	text-align: center;
 	letter-spacing: 1px;
 	text-shadow: 1px 0 0;
 	width: 300px;
-	position: absolute;
-	bottom: 50px;
-	right: 0;
+	float: right;
+	clear: both;
+	margin-top: 650px;
+	z-index: 1;
+	position: relative;
 	}
