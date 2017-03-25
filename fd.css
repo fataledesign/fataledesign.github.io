@@ -191,7 +191,7 @@ h3 {
 }
 
 nav a {
-	color: #800000;
+	color: white;
         font-family: 'Megrim', cursive;
 	text-decoration: none;
 	font-size: 30px;
@@ -204,7 +204,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #d98c8c;
+  color: #800000;
     font-family: 'Megrim', cursive;
 }
 
