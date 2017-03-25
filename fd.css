@@ -142,10 +142,13 @@ h1 {
 }
 
 h2 {
-	color: #d98c8c;
-	font-family: 'Electrolize', sans-serif;
-	font-size: 16px;
-	text-shadow: 1px 1px 0 #f2d9d9;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 26px;
+	padding-top: 250px;
+		width: 60%;
+	margin-right: 25%;
+	margin-left: 25%;
 }
 
 h3 {
