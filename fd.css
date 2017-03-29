@@ -128,6 +128,20 @@ header {
 	height: 320px;
 }
 
+@media only screen and (max-width: 700px){
+    header {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+
+@media only screen and (max-width: 500px){
+    header {
+        width: 100%;
+    }
+}
+
 h1 {
 	color:  #800000;
 	font-family: 'Megrim', cursive;
