@@ -58,9 +58,10 @@ div.desc {
 	margin-left: 70px;
 	margin-top: 15px;
 	position: absolute;
-	bottom: 75px;
-	height: 35%;
+	bottom: -10px;
+	height: 150px;
 	width: 100%;
+	overflow: hidden;
 }
 
 .quote {
@@ -70,7 +71,7 @@ div.desc {
 	text-shadow: -2px 1px 0 black;
 	margin-right: 15%;
 	margin-left: 15%;
-	padding-top: 190px;
+	position: relative;
 }
 
 .eyes{
