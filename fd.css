@@ -179,15 +179,15 @@ h3 {
 
 
 nav {
-	border-top: solid #800000;
-	border-bottom: solid #800000;
 	position: absolute;
-	bottom: 1px;
-	right: 38%;
 	z-index: 1;
-	width: 22%;
 	text-align: center;
-	display: inline;	
+	width: 360px;
+	display: ;
+	margin-right: 40%;
+	margin-left: 38.5%;
+	margin-top: 20px;
+	
 }
 
 nav a {
@@ -195,19 +195,18 @@ nav a {
     font-family: 'Megrim', cursive;
 	text-decoration: none;
 	font-size: 30px;
-	letter-spacing: 1px;
-	display: inline;
-	float: none;
+	 display: inline-block;
+         float: none;
 	text-align: center;
+	letter-spacing: 1px;
 	padding-right: 15px;
 	padding-left: 15px;
 }
 
 nav a:hover {
-  color: #800000;
+    color: #800000;
     font-family: 'Megrim', cursive;
 }
-
 
 footer {
     color:  #800000;
