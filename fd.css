@@ -78,16 +78,13 @@ div.desc {
 	width: 100%;
 }
 
-
-
 .logo {
-width: 250px;
-height: 250px;
-position: absolute;
-left: 45%;
-right: 45%;
-z-index: 0;
-top: 10px;
+        width: 250px;
+		height: 250px;
+	display: block;
+	text-align: center;
+	margin-right: 45%;
+	margin-left: 43.5%;
 }
 
 .top {
