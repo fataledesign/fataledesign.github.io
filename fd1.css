@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+}
+
+@media only screen and (max-width: 700px){
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+
+@media only screen and (max-width: 500px){
+    .responsive {
+        width: 100%;
+    }
+}
+
+html {
+	background-color: black;
+	}
+
+body {
+	width: 100%;
+}
+
+
+.bnw {
+	width: 100%;
+}
+
+.quote {
+	text-align: center;
+	color:  #800000;
+	font-size: 28px;
+	text-shadow: -2px 1px 0 black;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+.eyes{
+	width: 100%;
+	margin-top: 20px;
+}
+
+.logo {
+    width: 250px;
+	height: 250px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+header {
+	height: 320px;
+}
+
+h1 {
+	color:  white;
+	font-family: 'Megrim', cursive;
+	font-size: 50px;
+	letter-spacing: -1px;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	z-index: 1;
+}
+
+
+h3 {
+	color:  white;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Syncopate', sans-serif;
+	text-transform: uppercase;
+	margin-bottom: -40px;
+	margin-top: -35px;
+	position: relative;
+	z-index: 1;
+	}
+
+hr {
+	width: 45%;
+}
+
+nav {
+	text-align: center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	}
+
+nav a {
+	color:  #800000;
+    font-family: 'Megrim', cursive;
+	text-decoration: none;
+	font-size: 30px;
+	 display: inline-block;
+    float: none;
+	text-align: center;
+	letter-spacing: 1px;
+	margin-right: 35px;
+	margin-left: 15px;
+	border-top: solid white;
+	border-bottom: solid white;
+}
+
+nav a:hover {
+    color: white;
+    font-family: 'Megrim', cursive;
+}
+
+footer {
+    color:  #800000;
+	font-family: 'Electrolize', sans-serif;
+	display: inline;
+	text-align: center;
+	letter-spacing: 1px;
+	text-shadow: 1px 0 0;
+	width: 300px;
+	float: right;
+	}
