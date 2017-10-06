@@ -115,9 +115,8 @@ footer {
     color:  #800000;
 	font-family: 'Electrolize', sans-serif;
 	display: inline;
-	text-align: center;
+	text-align: right;
 	letter-spacing: 1px;
 	text-shadow: 1px 0 0;
 	width: 300px;
-	float: right;
 	}
