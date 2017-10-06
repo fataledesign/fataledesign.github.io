@@ -176,30 +176,6 @@ h3 {
 	}
 
 
-nav {
-	text-align: center;
-	display: block;
-    margin-top: 10%;
-	}
-
-nav a {
-	color:  #800000;
-    font-family: 'Megrim', cursive;
-	text-decoration: none;
-	font-size: 30px;
-	 display: inline-block;
-    float: none;
-	text-align: center;
-	letter-spacing: 1px;
-	border-top: solid #800000;
-	border-bottom: solid#800000;
-}
-
-nav a:hover {
-    color: #800000;
-    font-family: 'Megrim', cursive;
-}
-
 footer {
     color:  #800000;
 	font-family: 'Electrolize', sans-serif;
