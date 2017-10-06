@@ -84,32 +84,6 @@ hr {
 	width: 45%;
 }
 
-nav {
-	text-align: center;
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
-	}
-
-nav a {
-	color:  red;
-    font-family: 'Megrim', cursive;
-	text-decoration: none;
-	font-size: 30px;
-	 display: inline-block;
-    float: none;
-	text-align: center;
-	letter-spacing: 1px;
-	margin-right: 35px;
-	margin-left: 15px;
-	border-top: solid white;
-	border-bottom: solid white;
-}
-
-nav a:hover {
-    color: #800000;
-    font-family: 'Megrim', cursive;
-}
 
 footer {
     color:  #800000;
